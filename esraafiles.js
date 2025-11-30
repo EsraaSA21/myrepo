@@ -3,3 +3,4 @@ name="esraa"
 age=21
 console.log("my name is "+name+"with"+age)
 console.log("cat sound")
+console.log("dog sound")
